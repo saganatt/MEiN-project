@@ -49,4 +49,5 @@
 8. Wszystko wypełnione zanieść do Mobility Centre.
 9. Przewidywany czas oczekiwania na rejestrację zielonych tablic: do 3 miesięcy. Ale: zaniosłam dokumenty na koniec maja 2022, wysłali dokumenty z CERN na początku czerwca (albo nawet 10.06?), dowód rejestracyjny na zielone tablice przyszedł jakoś w połowie lipca. 
 10. Oficjalnie auto trzeba wywieźć z Polski 14 dni po zakupie (wystawieniu faktury? Prawo jest nieprecyzyjne), w praktyce udało się później na tablicach WW, ale to nie było do końca legalne ;-).
-11. Tablice są nitowane we Francji, ale tak naprawdę sprawdzają to tylko przy przeglądzie w warsztacie. Jeśli certyfikowane przeglądy robimy w Polsce (np., żeby zachować gwarancję na auto), to nikt się nie czepia braku nitów. Więc tablice można założyć samemu.
+11. Z Mobility Centre po jakimś czasie odbiera się Formularz 1 i Formularz 2. Formularz 2 trzeba wozić ze sobą.
+12. Tablice są nitowane we Francji, ale tak naprawdę sprawdzają to tylko przy przeglądzie w warsztacie. Jeśli certyfikowane przeglądy robimy w Polsce (np., żeby zachować gwarancję na auto), to nikt się nie czepia braku nitów. Więc tablice można założyć samemu.
