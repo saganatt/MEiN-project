@@ -51,3 +51,9 @@
 10. Oficjalnie auto trzeba wywieźć z Polski 14 dni po zakupie (wystawieniu faktury? Prawo jest nieprecyzyjne), w praktyce udało się później na tablicach WW, ale to nie było do końca legalne ;-).
 11. Z Mobility Centre po jakimś czasie odbiera się Formularz 1 i Formularz 2. Formularz 2 trzeba wozić ze sobą.
 12. Tablice są nitowane we Francji, ale tak naprawdę sprawdzają to tylko przy przeglądzie w warsztacie. Jeśli certyfikowane przeglądy robimy w Polsce (np., żeby zachować gwarancję na auto), to nikt się nie czepia braku nitów. Więc tablice można założyć samemu.
+
+### Powrót na zielonych tablicach do Polski
+
+1. Nawet przed upływem pół roku użytkowania można uniknąć płacenia VAT za auto, jeśli jest to uzasadnione -- [pismo Dyrektora Krajowej Informacji Skarbowej](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/pisma-urzedowe/0111-kdib1-2-4010-268-2017-1-ank-przemieszczenie-184963447).
+2. Ogólnie jest to traktowane jako mienie przesiedleńcze -- jeśli min. 12 miesięcy mieszkania za granicą, min. 6 miesięcy używania samochodu. Wtedy nie płaci się akcyzy ani VAT za auto. Trzeba natomiast mieć dowody zamieszkania i używania auta przez ten czas.
+3. Trzeba też przejść przez procedurę w CERNie, jest to opisane na standardowej stronie https://admin-eguide.web.cern.ch/en/procedure/green-plates.
