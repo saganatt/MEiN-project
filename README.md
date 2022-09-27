@@ -24,11 +24,26 @@
 - pieniądze muszą być dystrybuowane przez PW, ministerstwo daje w złotówkach
 - CERN/ALICE wystawia odpowiednie faktury za usługę, PW płaci we frankach (z Team Account?), to nie jest opodatkowane
 
+### Biurokracja na PW
+
+1. Wniosek o zatrudnienie, oświadczenie, że PW jest wyłącznym pracodawcą (zdalnie).
+2. Skierowanie na medycynę pracy -- wystarczy podanie czynników ryzyka p. Krawczykowi (zdalnie). Papierowe skierowanie trzeba odebrać z sekretariatu i przekazać do Centermedu, może być przydatne też w kadrach, tam wystarcza skan.
+3. Badania w Centermedzie.
+4. Wynik medycyny pracy + dyplom ukończenia studiów do kadr.
+4. Wypełnienie papierów w kadrach (standardowe przy zatrudnieniu, komplikacje z dokumentem do zaliczek na podatek).
+5. Kurs BHP.
+6. Rada Wydziału -- dokument przekazany do prorektora -- potem można podpisać umowę.
+7. Przy podpisaniu umowy wymienione niżej dokumenty do podatków (oświadczenie, karta francuska).
+
 ## Podatki
 
 1. Promesa zatrudnienia z PW, ile będzie zarobku na uczelni (bez Doctorala w CERN)
 2. Skontaktować się z SIP Valserhone, promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego
 3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji
+  - numer podatkowy dało się załatwić mailem
+  - do sprawdzenia [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
+4. Oświadczenie na uczelnię z nr podatkowym, że brutto na własną odpowiedzialność -- przy podpisywaniu umowy o pracę.
+5. Karta francuska jako dowód rezydencji we Francji -- przy podpisywaniu umowy o pracę.
 4. Wtedy PW nie odprowadza zaliczek na podatek w Polsce
 
 ## Ubezpieczenia
