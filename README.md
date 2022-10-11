@@ -41,10 +41,11 @@
 2. Skontaktować się z SIP Valserhone, promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego
 3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji
   - numer podatkowy dało się załatwić mailem
-  - do sprawdzenia [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
+  - [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
+  - w 2022: formularz 731-fr-gb-es-de, cerfa 3989
 4. Oświadczenie na uczelnię z nr podatkowym, że brutto na własną odpowiedzialność -- przy podpisywaniu umowy o pracę.
 5. Karta francuska jako dowód rezydencji we Francji -- przy podpisywaniu umowy o pracę.
-4. Wtedy PW nie odprowadza zaliczek na podatek w Polsce
+6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce
 
 ## Ubezpieczenia
 
