@@ -34,6 +34,8 @@
 5. Kurs BHP.
 6. Rada Wydziału -- dokument przekazany do prorektora -- potem można podpisać umowę.
 7. Przy podpisaniu umowy wymienione niżej dokumenty do podatków (oświadczenie, karta francuska).
+8. Napisać do dziekanatu WF o mail pracowniczy i dostęp do SAP.
+9. Formularze do WF: liczba N, dyscyplina naukowa.
 
 ## Podatki
 
