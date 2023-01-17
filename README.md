@@ -40,20 +40,25 @@
 ## Podatki
 
 1. Promesa zatrudnienia z PW, ile będzie zarobku na uczelni (bez Doctorala w CERN)
-2. Skontaktować się z SIP Valserhone, promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego
-3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji
+2. Skontaktować się z SIP Valserhone, promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego. Poprosić o założenie konta w [serwisie podatkowym](impots.gouv.fr).
+3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji:
   - numer podatkowy dało się załatwić mailem
   - [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
   - w 2022: formularz 731-fr-gb-es-de, cerfa 3989
+  - trochę wymiany wiadomości przez [serwis podatkowy](impots.gouv.fr), certyfikat wysłany w temacie certyfikatów dla frontaliers szwajcarskich/niemieckich, bo nie ma bardziej pasującego. Tutaj ktoś szybciej reaguje na wiadomości.
+  - cała biurokracja w pkt 2+3 może zająć parę miesięcy z popychaniem przez dzwonienie!
 4. Oświadczenie na uczelnię z nr podatkowym, że brutto na własną odpowiedzialność -- przy podpisywaniu umowy o pracę.
 5. Karta francuska jako dowód rezydencji we Francji -- przy podpisywaniu umowy o pracę.
-6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce
+6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce.
 
 ## Ubezpieczenia
 
-1. CHIS z CERN zachowany
-2. NFZ w Polsce -- EKUZ + zaświadczenie A1 z ZUS (PW musi poprosić)
-3. Po A1 można poprosić o zaświadczenie S1 dodatkowo do EKUZ, potem trzeba je przesłać do francuskiej Ameli. Można poprosić o francuskie Carte Vitale, która gwarantuje zwrot kosztów w ciągu 5 dni. Długo się czeka na francuską biurokrację.
+1. CHIS z CERN zachowany na Doctoralu.
+2. Zaświadczenie A1 z ZUS -- wypełnia i wysyła Dziekan Wydziału, potem kadry dostają elektronicznie i drukują papier.
+3. Zwykłym listem wysłać A1 + wniosek o S1 na podstawie przeniesienia działalności/pracy do oddziału NFZ właściwego ze względu na miejsce zamieszkania.
+  - instytucja francuska: CPAM Ain w Bourg-en-Bresse, kod instytucji: 01 (taki, jak kod regionu Ain)
+4. NFZ elektronicznie wysyła S1 do kasy chorych CPAM Ain, mailem przychodzi informacja od NFZ.
+5. Trzeba samemu się zgłosić do CPAM z danymi z NFZ do dopełnienia rejestracji. Wtedy można dostać francuską Carte Vitale, która gwarantuje zwrot kosztów w ciągu 5 dni. Długo się czeka na francuską biurokrację.
 
 ## Zielone tablice na nowe auto w 2022 r.
 
