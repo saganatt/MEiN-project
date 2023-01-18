@@ -40,7 +40,14 @@
 ## Podatki
 
 1. Promesa zatrudnienia z PW, ile będzie zarobku na uczelni (bez Doctorala w CERN)
-2. Skontaktować się z SIP Valserhone, promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego. Poprosić o założenie konta w [serwisie podatkowym](impots.gouv.fr).
+2. Skontaktować się z SIP Valserhone:
+  - promesa + formularz 2043 z przewidywanymi dochodami + skany dowodu osobistego<br>
+    **UWAGA:** w formularzu pisać dochód miesięczny, nie całkowity!
+  - poprosić o założenie konta w [serwisie podatkowym](impots.gouv.fr)
+    - w razie potrzeby można w serwisie korygować dochód, podatki itd.
+    - podatek jest pobierany miesięcznie z konta (0% u mnie)
+    - najłatwiej mieć konto we francuskim banku: do ubezpieczenia mieszkania mam w Credit Agricole 12-15 EUR / rok za bardzo minimalne konto
+    - na wiosnę składa się zeznanie podatkowe i potem opłaty są korygowane
 3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji:
   - numer podatkowy dało się załatwić mailem
   - [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
