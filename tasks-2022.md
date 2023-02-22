@@ -18,6 +18,7 @@
 
 ### 2023-2024
 1. WP 1.5: Generalized, uniform integration of various ML projects with the O2 Analysis Framework
+2. WP 2.1: Validation of the O2 ML PID with measurements using first LHC Run 2 and later LHC Run 3 data
 
 ### 2023-2025
 1. WP 2.6: Correlations analysis of p-D and D-D pairs in pp collisions from LHC Run 3
@@ -26,7 +27,7 @@
 ### 2024-2025
 1. WP 1.6: Develop software infrastructure for ML inference on ALICE Grid infrastructure for LHC Run 3
 2. WP 1.7: Maintenance of the developed O2 ML PID inference infrastructure
-3. WP 2.8: Quantitative comparison of the LHC Run 3 correlation results results with Monte Carlo model calculations
+3. WP 2.8: Quantitative comparison of the LHC Run 3 correlation results with Monte Carlo model calculations
 
 ## Tasks scheduled in the ministry grant request
 
