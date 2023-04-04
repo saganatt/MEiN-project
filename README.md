@@ -74,10 +74,11 @@
 5. Trzeba samemu się zgłosić do CPAM z danymi z NFZ do dopełnienia rejestracji. Wtedy można dostać francuską Carte Vitale, która gwarantuje zwrot kosztów w ciągu 5 dni. Długo się czeka na francuską biurokrację.
   - chyba jedyny sposób to korespondencja pocztą do Bourg-en-Bresse...
 6. 2 miesiące po informacji z NFZ przyszedł list z CPAM, że mają dokument z NFZ i mogą mnie zarejestrować, jeśli prześlę dodatkowe dokumenty:
-  - skan dowodu osobistego
-  - kopia aktu urodzenia -- nie musi być tłumaczona, **do wzięcia z Polski**
-  - dowód zatrudnienia
-  - dowód zamieszkania we Francji
+  - skan/zdjęcie czarno-białe recto-verso dowodu osobistego
+  - skan/zdjęcie czarno-białe aktu urodzenia -- nie musi być tłumaczone
+  - skan/zdjęcie umowy o pracę
+  - dane francuskiego konta bankowego (RIB)
+  - w przypadku małżeństwa, skan/zdjęcie czarno-białe aktu ślubu (do rejestracji nowego nazwiska po ślubie)
 
 ## Zielone tablice na nowe auto w 2022 r.
 
