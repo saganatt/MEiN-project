@@ -57,11 +57,24 @@
   - **UWAGA:** certyfikat rezydencji jest ważny tylko na dany rok kalendarzowy! Trzeba za każdym razem prosić na nowo. Jak się na impots.gouv przytoczy poprzednią korespondecję o certyfikacie i napisze swoje dochody (małe = kwota wolna), to Francuzi kolejny certyfikat mogą wydać szybko (dostałam tego samego dnia)
 4. Oświadczenie na uczelnię z nr podatkowym, że brutto na własną odpowiedzialność -- przy podpisywaniu umowy o pracę.
 5. Karta francuska jako dowód rezydencji we Francji -- przy podpisywaniu umowy o pracę.
-6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce -- od momentu otrzymania certyfikatu!
-7. Coroczna deklaracja podatkowa: w Polsce wszystkie dochody oprócz CERN i pracy w ramach projektu MEiN (PIT-11 + PIT-37), we Francji dochód na PW z projektu.<br>
+6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce -- **od momentu otrzymania certyfikatu!**
+7. Coroczna deklaracja podatkowa w Polsce
+  - W Polsce wszystkie dochody oprócz CERN i pracy w ramach projektu MEiN (PIT-11 + PIT-37), we Francji dochód na PW z projektu.<br>
    **Zależy od osobiście przyjętej definicji rezydencji podatkowej i miejsca świadczenia poszczególnych prac!**
-8. Jeśli były opóźnienia i PW odprowadziła zaliczki, to PIT-11 je zawiera --> trzeba PIT-37 samodzielnie skorygować i napisać wytłumaczenie, o co chodzi.
-9. Francuzi nie potrzebują dodatkowych PITów, wypełnia się formularz podatkowy 2047 przez internet, wpisuje polskie dochody w pole 1AG.
+  - Jeśli były opóźnienia i PW odprowadziła zaliczki, to PIT-11 je zawiera --> trzeba PIT-37 samodzielnie skorygować i napisać wytłumaczenie, o co chodzi.
+  - Dodatkowe dokumenty można wysłać z podpisami zaufanymi przez ePUAP do Trzeciego Urzędu Skarbowego Warszawa Śródmieście, właściwego do rozliczeń nierezydentów Polski
+  - Dokumenty na polski PIT:
+    - PIT-37, przez internet można odhaczyć, że się dostarczy certyfikat rezydencji podatkowej
+    - wyjaśnienie rozbieżności z PIT-11
+    - certyfikat francuskiej rezydencji podatkowej
+    - kopia umowy o pracę z PW
+    - kalendarz dni pracy z PW, na dni pracy we Francji
+    - oświadczenie pracodawcy (BSO), że wie o pobycie we Francji -- BSO dało razem z promesą zatrudnienia
+8. Deklaracja podatkowa we Francji:
+  - Francuzi nie potrzebują dodatkowych PITów
+  - nawet jak ma się konto na impots.gouv.fr, pierwszą deklarację trzeba złożyć na papierze -- osobiście lub listem do Valserhone
+  - Dokumenty do francuskich rozliczeń:
+  - wypełnia się formularz podatkowy 2047 przez internet, wpisuje polskie dochody w pole 1AG.
 10. Początek francuskiej rezydencji podatkowej ustala się samemu -- ja przyjęłam początek zatrudnienia na PW w ramach projektu, mimo, że we Francji byłam pół roku wcześniej.
 
 ## Ubezpieczenia
