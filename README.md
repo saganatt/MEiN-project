@@ -61,6 +61,7 @@
 7. Coroczna deklaracja podatkowa w Polsce
   - W Polsce wszystkie dochody oprócz CERN i pracy w ramach projektu MEiN (PIT-11 + PIT-37), we Francji dochód na PW z projektu.<br>
    **Zależy od osobiście przyjętej definicji rezydencji podatkowej i miejsca świadczenia poszczególnych prac!**
+   Początek francuskiej rezydencji podatkowej ustala się samemu -- ja przyjęłam początek zatrudnienia na PW w ramach projektu, mimo, że we Francji byłam pół roku wcześniej.
   - Jeśli były opóźnienia i PW odprowadziła zaliczki, to PIT-11 je zawiera --> trzeba PIT-37 samodzielnie skorygować i napisać wytłumaczenie, o co chodzi.
   - Dodatkowe dokumenty można wysłać z podpisami zaufanymi przez ePUAP do Trzeciego Urzędu Skarbowego Warszawa Śródmieście, właściwego do rozliczeń nierezydentów Polski
   - Dokumenty na polski PIT:
@@ -74,8 +75,21 @@
   - Francuzi nie potrzebują dodatkowych PITów
   - nawet jak ma się konto na impots.gouv.fr, pierwszą deklarację trzeba złożyć na papierze -- osobiście lub listem do Valserhone
   - Dokumenty do francuskich rozliczeń:
-  - wypełnia się formularz podatkowy 2047 przez internet, wpisuje polskie dochody w pole 1AG.
-10. Początek francuskiej rezydencji podatkowej ustala się samemu -- ja przyjęłam początek zatrudnienia na PW w ramach projektu, mimo, że we Francji byłam pół roku wcześniej.
+    - formularz 2042\_4381 -- podstawowa deklaracja, polskie dochody wpisać w pole 1AG, wzięty podatek od źródła w 8HV, zaznaczyć 8FV (w przypadku pracy w CERN) i 8UU, w komentarzach:
+      ```
+      Membre du personnel du CERN assujetti à l'impôt interne du CERN et, à ce titre, exonéré d'impôt sur les prestations financières
+      et familiales versées par le CERN. A partir du 1er octobre 2022, employé par l'Université de Technologie de Varsovie pour travailler
+      en France, revenu imposable en France (case 1AG).
+      ```
+   **Uwaga:** Chyba nie podawałam zmiany adresu w 2022 r. Koledzy tak radzili, żeby francuskiej skarbówce nie chwalić się polskim adresem, nie wiem, po co.
+    - formularz 2042\_4318 -- tylko zaznaczyć 8SH, w sensie: mam NFZ / CHIS, nie płacę na francuskie ubezpieczenie
+    - formularz 2047\_4328 -- deklaracja dochodów zagranicznych, wpisać polskie dochody w sekcji ,,Traitements, salaires"
+    - formularz 3916\_4285 -- po jednej kopii na każde posiadane zagraniczne konto bankowe / IBAN. Uwaga: PayPal to też konto, aczkolwiek podobno przy kwotach do 10000 EUR / rok nie trzeba deklarować
+    - RIB / Releve Identite Bancaire, czyli kartka z informacjami o głównym koncie (IBAN, Swift, adres banku), które służy do rozliczeń podatkowych
+    - w przypadku zatrudnienia w CERN:
+      - CERN internal tax report
+      - employment attestation
+    - polska umowa o pracę + tłumaczenie na francuski (zrobiłam sama)
 
 ## Ubezpieczenia
 
