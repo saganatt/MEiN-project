@@ -122,11 +122,36 @@
 11. Z Mobility Centre po jakimś czasie odbiera się Formularz 1 i Formularz 2. Formularz 2 trzeba wozić ze sobą.
 12. Tablice są nitowane we Francji, ale tak naprawdę sprawdzają to tylko przy przeglądzie w warsztacie. Jeśli certyfikowane przeglądy robimy w Polsce (np., żeby zachować gwarancję na auto), to nikt się nie czepia braku nitów. Więc tablice można założyć samemu.
 
-### Powrót na zielonych tablicach do Polski
+### Powrót na zielonych tablicach do Polski (luty/marzec 2024)
 
+We Francji:
+1. https://admin-eguide.web.cern.ch/en/procedure/green-plates. Przy wywozie auta za granicę Francuzów nie obchodzi, jak długo mieszkałam we Francji, jak długo posiadałam auto, nie ściągają żadnych opłat. To są zmartwienia w kraju docelowym (Polsce).
+2. Napisać do celników z Ferney z parotygodniowym wyprzedzeniem i umówić wizytę przed wyjazdem
+3. Załatwić zwykłe białe tablice odpowiadające zielonym -- np. za 20 EUR w Gexpress w Ornex drukują na miejscu
+4. Przyjechać do Ferney z:
+  - zdjętymi zielonymi tablicami
+  - dokumentem tożsamości
+  - Formularzem 2
+  - carte grise (francuskim dowodem rejestracyjnym)
+5. Nie trzeba przyjeżdżać autem, którego dotyczy sprawa. Nic się nie płaci celnikom.
+6. Po wizycie celnicy dają 3 miesiące na odesłanie im mailem skanu zagranicznego dowodu rejestracyjnego. W tym czasie można jeździć na białych tablicach i z obecnym carte grise. Po wysłaniu skanu dowodu francuskie tablice są definitywnie anulowane.
+7. W CERNie jest krótki formularz do zgłoszenia Mobility Centre, że się anulowało zielone tablice: https://cern.service-now.com/service-portal?id=sc_cat_item&name=green-plates-cancellation&se=car-plates-services
+  - Formularz 2 anulowany przez celników
+  - "cancellation certificate" (attestation d'annulation) -- jeśli dotyczy; chyba nie ma przy wywozie auta z Francji
+
+W Polsce:
 1. Nawet przed upływem pół roku użytkowania można uniknąć płacenia VAT za auto, jeśli jest to uzasadnione -- [pismo Dyrektora Krajowej Informacji Skarbowej](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/pisma-urzedowe/0111-kdib1-2-4010-268-2017-1-ank-przemieszczenie-184963447).
 2. Ogólnie jest to traktowane jako mienie przesiedleńcze -- jeśli min. 12 miesięcy mieszkania za granicą, min. 6 miesięcy używania samochodu. Wtedy nie płaci się akcyzy ani VAT za auto. Trzeba natomiast mieć dowody zamieszkania i używania auta przez ten czas.
-3. Trzeba też przejść przez procedurę w CERNie, jest to opisane na standardowej stronie https://admin-eguide.web.cern.ch/en/procedure/green-plates.
+3. 30 dni od przeprowadzki z zagranicy na załatwienie nowej polskiej rejestracji. Do rejestracji potrzebne są papiery z Urzędu Skarbowego, że się zapłaciło akcyzę+VAT lub auto jest z tego zwolnione.
+4. Art. 110 ustawy o podatku akcyzowym oraz art. 47 ustawy o podatku od towarów i usług precyzują warunki zwolnienia od odpowiednich podatków.
+  - o zwolnienie można się ubiegać w przeciągu 12 miesięcy od osiedlenia się osoby fizycznej na terytorium kraju. Nie można tego zrobić ,,zawczasu''.
+  - art. 110 ust. 1 pkt 1 precyzuje że auto musi być do użytku osobistego osoby ubiegającej się o zwolnienie, a więc musi być ona wpisana w dowód rejestracyjny jako osoba użytkująca pojazd.
+7. Każdy urząd ma swój zestaw pożądanych dokumentów do zwolnienia z VAT i akcyzy. Przykład z US Warszawa-Ursynów:
+  - dokumenty rejestracyjne
+  - dokumenty zakupowe pojazdu
+  - dokumenty z zakończenia pobytu za granicą osoby ubiegającej się o zwolnienie (np. wymeldowanie, świadectwo pracy, zakończenie służby, zaświadczenie z placówki etc.)
+  - dokumenty z użytkowania pojazdu przez tą osobę na co najmniej 6 miesięcy przed zmianą miejsca pobytu (np. faktury, rachunki, ubezpieczenie za auto na tą osobę)
+  - dokumenty świadczące o rozpoczęciu pobytu stałego w Polsce (np. meldunek stały, umowa o pracę, zaświadczenie z instytucji wysyłającej na placówkę, kupno mieszkania, rejestracja w Urzędzie Pracy, etc.)
 
 ## Przerwa w Doctoralu
 
