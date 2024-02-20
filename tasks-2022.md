@@ -47,16 +47,54 @@
 - WP 2.7: 01.07.2023-31.12.2025
 - WP 2.8: 01.07.2024-31.12.2025
 
-## Zadania w ramach rozliczenia:
+## Zadania w ramach rozliczenia 2022:
 
 ### Skończone:
-- WP 1.1
-- WP 1.2
+- WP 1.1 -- przełożone
+- WP 1.2 -- wydłużone o rok
 - WP 2.2
 - WP 2.3
 
 ### W trakcie:
-- WP 1.3
+- WP 1.3 -- skończone wcześniej w 2022 r.
 - WP 1.4
 - WP 2.4
 - WP 2.5
+
+## Zadania w ramach rozliczenia 2023:
+
+### Skończone:
+- WP 1.2
+- WP 1.4
+- WP 2.4
+- WP 2.5
+
+### W trakcie:
+- WP 1.1
+- WP 1.5
+- WP 2.1
+- WP 2.6
+- WP 2.7
+
+## Zadania w ramach rozliczenia 2024:
+
+### Skończone:
+- WP 1.5
+- WP 2.1
+
+### W trakcie:
+- WP 1.1
+- WP 1.6
+- WP 1.7
+- WP 2.6
+- WP 2.7
+- WP 2.8
+
+## Zadania w ramach rozliczenia 2025:
+
+### Skończone:
+- WP 1.6
+- WP 1.7
+- WP 2.6
+- WP 2.7
+- WP 2.8
