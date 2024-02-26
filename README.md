@@ -47,14 +47,16 @@
     - w razie potrzeby można w serwisie korygować dochód, podatki itd.
     - podatek jest pobierany miesięcznie z konta (0% u mnie)
     - najłatwiej mieć konto we francuskim banku: do ubezpieczenia mieszkania mam w Credit Agricole 12-15 EUR / rok za bardzo minimalne konto
+    - **UWAGA:** akceptowane jest też konto Revolut! Ale np. PKO BP już nie, bo bank nie pozwala na prelevements.
     - na wiosnę składa się zeznanie podatkowe i potem opłaty są korygowane
+    - trzymać konto w banku/Revolucie do końca wszelkich rozliczeń podatkowych, czyli: do jesieni roku, w którym złożyło się ostatnią deklarację podatkową we Francji (po ostatnim roku pobytu we Francji)
 3. Numer podatkowy + dokument potwierdzający, że podatki będą rozliczane we Francji:
   - numer podatkowy dało się załatwić mailem
   - [certyfikat rezydencji podatkowej](https://www.ifrancja.fr/certyfikat-rezydencji-podatkowej-informacja-dotyczaca-formularza-730-fr-ang-sd/)
   - w 2022: formularz 731-fr-gb-es-de, cerfa 3989
   - trochę wymiany wiadomości przez [serwis podatkowy](impots.gouv.fr), certyfikat wysłany w temacie certyfikatów dla frontaliers szwajcarskich/niemieckich, bo nie ma bardziej pasującego. Tutaj ktoś szybciej reaguje na wiadomości.
   - cała biurokracja w pkt 2+3 może zająć parę miesięcy z popychaniem przez dzwonienie!
-  - **UWAGA:** certyfikat rezydencji jest ważny tylko na dany rok kalendarzowy! Trzeba za każdym razem prosić na nowo. Jak się na impots.gouv przytoczy poprzednią korespondecję o certyfikacie i napisze swoje dochody (małe = kwota wolna), to Francuzi kolejny certyfikat mogą wydać szybko (dostałam tego samego dnia)
+  - **UWAGA:** certyfikat rezydencji jest ważny tylko na dany rok kalendarzowy! Trzeba za każdym razem prosić na nowo. Jak się na impots.gouv przytoczy poprzednią korespondecję o certyfikacie i napisze swoje dochody (małe = kwota wolna), to Francuzi kolejny certyfikat mogą wydać szybko (dostałam tego samego dnia), o ile nie jest to grudzień.
 4. Oświadczenie na uczelnię z nr podatkowym, że brutto na własną odpowiedzialność -- przy podpisywaniu umowy o pracę.
 5. Karta francuska jako dowód rezydencji we Francji -- przy podpisywaniu umowy o pracę.
 6. Wtedy PW nie odprowadza zaliczek na podatek w Polsce -- **od momentu otrzymania certyfikatu!**
@@ -90,6 +92,12 @@
       - CERN internal tax report
       - employment attestation
     - polska umowa o pracę + tłumaczenie na francuski (zrobiłam sama)
+
+## Bank
+1. Większość ludzi używa UBS do wypłaty z CERN (musi być szwajcarski IBAN).
+2. 5 CHF / miesiąc, po osiągnięciu 10 000 CHF na końce (3 miesiące pracy w CERN) 3 CHF / miesiąc. Po zakończeniu kontraktu i wyjeździe za granicę są 3 miesiące przejściowe 3 CHF / miesiąc (można poczekać na np. zaległe rozliczenia z CHIS UNIQA), potem 33 CHF / miesiąc.
+3. 5 CHF za przelew na nie-szwajcarski IBAN, niezależnie od kwoty -- opłaca się przy bardzo dużych kwotach.
+4. Zamknięcie konta: w aplikacji odklikać przelew wszystkiego na inne konto. Po wyczyszczeniu konta w aplikacji można kliknąć na ikonę kontaktu, poprosić o usunięcie konta. Nie trzeba być fizycznie w banku.
 
 ## Ubezpieczenia
 
@@ -141,12 +149,14 @@ We Francji:
 
 W Polsce:
 1. Nawet przed upływem pół roku użytkowania można uniknąć płacenia VAT za auto, jeśli jest to uzasadnione -- [pismo Dyrektora Krajowej Informacji Skarbowej](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/pisma-urzedowe/0111-kdib1-2-4010-268-2017-1-ank-przemieszczenie-184963447).
+2. VAT jest ważny tylko w przypadku sprowadzania auta spoza UE (np. ze Szwajcarii). Przy sprowadzeniu z Francji wystarczy zwolnienie z akcyzy.
 2. Ogólnie jest to traktowane jako mienie przesiedleńcze -- jeśli min. 12 miesięcy mieszkania za granicą, min. 6 miesięcy używania samochodu. Wtedy nie płaci się akcyzy ani VAT za auto. Trzeba natomiast mieć dowody zamieszkania i używania auta przez ten czas.
-3. 30 dni od przeprowadzki z zagranicy na załatwienie nowej polskiej rejestracji. Do rejestracji potrzebne są papiery z Urzędu Skarbowego, że się zapłaciło akcyzę+VAT lub auto jest z tego zwolnione.
-4. Art. 110 ustawy o podatku akcyzowym oraz art. 47 ustawy o podatku od towarów i usług precyzują warunki zwolnienia od odpowiednich podatków.
+3. 30 dni od przeprowadzki z zagranicy na załatwienie nowej polskiej rejestracji. Do rejestracji potrzebne są papiery z Urzędu Skarbowego, że się zapłaciło akcyzę+VAT lub auto jest z tego zwolnione. Po dostarczeniu papierów można dostać polskie tablice tymczasowe ważne na 30 dni od wizyty w urzędzie, i w tym czasie urzędnicy powinni wydać nową stałą rejestrację.
+4. Jeśli akcyza była zapłacona przed eksportem do Francji (np. jest adnotacja o odprowadzeniu akcyzy przez dealera na fakturze z zakupu auta) i auto nigdy nie było zarejestrowane w Polsce, to można z automatu, nawet przez Internet, dostać papier z US, że akcyza jest zapłacona. Ja tak załatwiłam mailowo z urzędnikiem działu od akcyz w US Ursynów.
+5. Art. 110 ustawy o podatku akcyzowym oraz art. 47 ustawy o podatku od towarów i usług precyzują warunki zwolnienia od odpowiednich podatków.
   - o zwolnienie można się ubiegać w przeciągu 12 miesięcy od osiedlenia się osoby fizycznej na terytorium kraju. Nie można tego zrobić ,,zawczasu''.
   - art. 110 ust. 1 pkt 1 precyzuje że auto musi być do użytku osobistego osoby ubiegającej się o zwolnienie, a więc musi być ona wpisana w dowód rejestracyjny jako osoba użytkująca pojazd.
-7. Każdy urząd ma swój zestaw pożądanych dokumentów do zwolnienia z VAT i akcyzy. Przykład z US Warszawa-Ursynów:
+6. Każdy urząd ma swój zestaw pożądanych dokumentów do zwolnienia z VAT i akcyzy. Przykład z US Warszawa-Ursynów:
   - dokumenty rejestracyjne
   - dokumenty zakupowe pojazdu
   - dokumenty z zakończenia pobytu za granicą osoby ubiegającej się o zwolnienie (np. wymeldowanie, świadectwo pracy, zakończenie służby, zaświadczenie z placówki etc.)
