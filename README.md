@@ -85,7 +85,7 @@
       ```
    **Uwaga:** Chyba nie podawałam zmiany adresu w 2022 r. Koledzy tak radzili, żeby francuskiej skarbówce nie chwalić się polskim adresem, nie wiem, po co.
     - formularz 2042\_4318 -- tylko zaznaczyć 8SH, w sensie: mam NFZ / CHIS, nie płacę na francuskie ubezpieczenie
-    - formularz 2047\_4328 -- deklaracja dochodów zagranicznych, wpisać polskie dochody w sekcji ,,Traitements, salaires"
+    - formularz 2047\_4328 -- deklaracja dochodów zagranicznych, wpisać polskie dochody w sekcji ,,Traitements, salaires", NIE ,,Heures supplementaires" itp., mimo, że jest tam referencja do 1AG
     - formularz 3916\_4285 -- po jednej kopii na każde posiadane zagraniczne konto bankowe / IBAN. Uwaga: PayPal to też konto, aczkolwiek podobno przy kwotach do 10000 EUR / rok nie trzeba deklarować
     - RIB / Releve Identite Bancaire, czyli kartka z informacjami o głównym koncie (IBAN, Swift, adres banku), które służy do rozliczeń podatkowych
     - w przypadku zatrudnienia w CERN:
